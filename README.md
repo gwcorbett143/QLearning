@@ -10,3 +10,4 @@ What does it mean for Q Learning to be "model-free"?
 Model-free refers to a learning algorithm that doesn't need to learn in an environmnet. Another example of a model-free learing is Machine learning as machine learning only learns from data and not in an environment.
 
 What, if anything, is Q Learning often used for? (If you find any cool projects or research relating to Q Learning, feel free to link them to me!)
+Q Learning can be used for bunch of different actions that requires taking the next best action in a given situation. A couple examples I found were a trading algorithm and a model that learned how to play doom and get to the next level.
