@@ -31,4 +31,8 @@ public class QLearningTest {
         }
     }
 
+    //After the maze is generated I would code a way for an algorithm to get to the starting position and navigate the maze
+    //If I had time I would include a value for each section next to the final value to encourage and guide the algorth
+    //towards the objective. The navigation would then be save in a seperate file.
+
 }
